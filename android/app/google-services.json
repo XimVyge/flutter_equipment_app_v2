@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203642604422",
+    "project_id": "flutter-equipment-app-v2",
+    "storage_bucket": "flutter-equipment-app-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203642604422:android:a0c957e481a8a8aa077a07",
+        "android_client_info": {
+          "package_name": "com.example.flutter_equipment_app_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhsmyRkShrvLwBOzWfGnYHHxQapY4EpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
