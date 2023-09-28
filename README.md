@@ -1,16 +1,19 @@
 # flutter_equipment_app_v2
 
-a secod version of the initial project
+Second version of the initial project
 
-## Getting Started
+first version : https://github.com/XimVyge/flutter_equipment_app
 
-This project is a starting point for a Flutter application.
+## Reasons for the second version:
 
-A few resources to get you started if this is your first Flutter project:
+I made a second version as there seems to be some discrepancies to the details discussed during the lecture.
+However, I included a link to the first version that has the discussed features should that be the required version.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Instructions:
+>There should be 2 list: FIRST - list of equipment that can be requested. SECOND - list of equipment that are already assigned to an employee
+>Upon clicking a specific equipment, the user should be able to view all the details of the equipment. In the redirection screen, the user should be able to see a "Request" button if the equipment is from the FIRST list. If the equipment is from the SECOND list, no "Request" button should be seen, but the details of employee who requested it should be seen in the details page.
+>Upon clicking the "Request" button, the user should be able to fill out the form about his/her details, request details (schedule, purpose, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It means that whe the users log in, they should be able to see not only the equipments assigned to them but all equipments that are assigned to employees.
+
+I left the "Add Equipment" button as-is to make it easier to add equipment when testing.
