@@ -11,7 +11,9 @@ However, I included a link to the first version that has the discussed features 
 
 ### Instructions:
 >There should be 2 list: FIRST - list of equipment that can be requested. SECOND - list of equipment that are already assigned to an employee
+
 >Upon clicking a specific equipment, the user should be able to view all the details of the equipment. In the redirection screen, the user should be able to see a "Request" button if the equipment is from the FIRST list. If the equipment is from the SECOND list, no "Request" button should be seen, but the details of employee who requested it should be seen in the details page.
+
 >Upon clicking the "Request" button, the user should be able to fill out the form about his/her details, request details (schedule, purpose, etc.)
 
 It means that whe the users log in, they should be able to see not only the equipments assigned to them but all equipments that are assigned to employees.
